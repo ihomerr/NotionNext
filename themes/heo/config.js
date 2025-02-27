@@ -115,7 +115,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '公会活动随时沟通',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入我们的Kook',
+  HEO_SOCIAL_CARD_TITLE_3: '点击加入我们的KOOK 25939328',
   HEO_SOCIAL_CARD_URL: 'https://kook.vip/nPsf2i',
 
   // 底部统计面板文案
