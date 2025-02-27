@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来的AK-47官方网站', url: 'https://blog.tangly1024.com' },
+    { title: '欢迎来到AK-47官方网站', url: 'https://blog.tangly1024.com' },
     { title: '查看公会的最新动态', url: '/tag/最新动态' }
   ],
 
