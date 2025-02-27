@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '开心游戏',
   HEO_HERO_TITLE_2: '相互协助',
-  HEO_HERO_TITLE_3: 'AK47club.top',
+  HEO_HERO_TITLE_3: 'AK47CLUB.TOP',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: '快来加入！',
   HEO_HERO_TITLE_LINK: 'https://AK47club.top',
@@ -114,9 +114,9 @@ const CONFIG = {
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_TITLE_2: '公会活动随时沟通',
+  HEO_SOCIAL_CARD_TITLE_3: '点击加入我们的Kook',
+  HEO_SOCIAL_CARD_URL: 'https://kook.vip/nPsf2i',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
