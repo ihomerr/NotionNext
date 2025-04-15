@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到AK-47官方网站', url: 'https://ak47club.top' },
-    { title: '萌新快来加入萌新天堂AK-47！！！', url: '/tag/最新动态' }
+    { title: '欢迎来到AK-47非官方网站', url: 'https://ak47club.top' },
+    { title: '快来加入萌新天堂AK-47！！！', url: '/tag/最新动态' }
   ],
 
   // 英雄区左右侧组件颠倒位置
